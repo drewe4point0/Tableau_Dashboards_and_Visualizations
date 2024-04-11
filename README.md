@@ -4,7 +4,7 @@
 - [Introduction, Project Overview](#introduction-project-overview)
 - [Methodology](#methodology)
 - [Data](#data)
-
+- [Contact Info](#contact-info)
 
 
 ## Introduction, Project Overview
@@ -34,4 +34,11 @@ Many of these visuals have been inspired by Tableau's ["Viz. of the Day"](https:
 The data for each visualization will be cited on the bottom left of the visualization itself.
 
 
+## Contact Info
+If you have any questions about this project, I would love to speak with you! Please don't hesitate to reach out:
+
+- **Phone:** +1 778 995 7801
+- **Email:** [Drewe.MacIver@gmail.com](mailto:drewe.maciver@gmail.com)
+- **LinkedIn:** [Drewe MacIver on LinkedIn](https://www.linkedin.com/in/drewe-maciver/)
+- **Website:** [DreweItWithData.com](https://www.dreweitwithdata.com)
 
